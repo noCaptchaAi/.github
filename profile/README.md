@@ -5,9 +5,9 @@
 
 <a href="https://nocaptchaai.com/register">Free trial credits 🔥 with free API key</a>
 
-**Benchmark:**
-
-0.04s-0.9s ~ *A batch of 18 hCapctha images*
+⚡**0.04s - 0.9s** \
+<i>to solve 18 hCapctha images</i> \
+**99% accuracy ~ 99% uptime**
 
 **Pricing:**
 - 15k solves = 5$ (user pays fee)
@@ -27,3 +27,5 @@ Dcos:  [noCaptchaAi Docs](https://nocaptchaai.com/docs)  \
 MainRepo:  [hCaptchaSolverApi](https://github.com/shimuldn/hCaptchaSolverApi) \
 Discord:  [https://discord.gg/E7FfzhZqzA](https://discord.gg/E7FfzhZqzA) \
 Telegram:  [https://t.me/noCaptchaAi ](https://t.me/noCaptchaAi) 
+
+**Userscript for chrome/firefox: [hCaptchaSolver.js](https://github.com/noCaptchaAi/hCaptchaSolver.user.js)**
