@@ -22,8 +22,8 @@
 
 <img src="https://user-images.githubusercontent.com/4178343/180646819-324163a8-0c4c-4571-b01c-2f98ab8a1127.gif" width="60%" />
 
-Home: [noCaptchaAi.com](https://nocaptchaai.com)  \
-Dcos:  [noCaptchaAi Docs](https://nocaptchaai.com/docs)  \
+Home: [Website](https://nocaptchaai.com)  \
+Dcos:  [DOCS](https://nocaptchaai.com/docs)  \
 MainRepo:  [hCaptchaSolverApi](https://github.com/shimuldn/hCaptchaSolverApi) \
 Discord:  [https://discord.gg/E7FfzhZqzA](https://discord.gg/E7FfzhZqzA) \
 Telegram:  [https://t.me/noCaptchaAi ](https://t.me/noCaptchaAi) 
