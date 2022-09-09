@@ -24,8 +24,9 @@
 
 Home: [Website](https://nocaptchaai.com)  \
 Dcos:  [DOCS](https://nocaptchaai.com/docs)  \
-MainRepo:  [hCaptchaSolverApi](https://github.com/shimuldn/hCaptchaSolverApi) \
+MainRepo:  [github/hCaptchaSolverApi](https://github.com/shimuldn/hCaptchaSolverApi) \
 Discord:  [https://discord.gg/E7FfzhZqzA](https://discord.gg/E7FfzhZqzA) \
 Telegram:  [https://t.me/noCaptchaAi ](https://t.me/noCaptchaAi) 
 
-**Userscript for chrome/firefox: [hCaptchaSolver.js](https://github.com/noCaptchaAi/hCaptchaSolver.user.js)**
+## Userscript 
+Chrome/Firefox: [hCaptchaSolver.js](https://github.com/noCaptchaAi/hCaptchaSolver.user.js)
