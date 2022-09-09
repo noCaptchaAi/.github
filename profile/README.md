@@ -1,12 +1,29 @@
-## Hi there 👋
 
-<!--
+<a href="https://t.me/noCaptchaAi" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://discord.gg/E7FfzhZqzA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/E7FfzhZqzA"><img alt="Discord" src="https://img.shields.io/discord/994856206525018112"></a>
 
-**Here are some ideas to get you started:**
+<a href="https://nocaptchaai.com/register">Free trial credits 🔥 with free API key</a>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Benchmark:**
+
+0.04s-0.9s ~ *A batch of 18 hCapctha images*
+
+**Pricing:**
+- 15k solves = 5$ (user pays fee)
+- 30k solves = 10$
+- 65k solves = 20$
+- 160k solves /5 threads = 50$
+- 500k solves /10 threads = 150$ 
+- 1m solves / 20 threads = 300$
+- Need **Unlimited** Solving, 10 to **5000 threads**, **Custom API** requirements?
+  * Buy on <a href="https://discord.gg/E7FfzhZqzA">DISCORD</a>
+  * Send questions <a href="mailto:ai@nocaptchaai.com">eMail Us 📧<a/>
+
+<img src="https://user-images.githubusercontent.com/4178343/180646819-324163a8-0c4c-4571-b01c-2f98ab8a1127.gif" width="60%" />
+
+Home: [noCaptchaAi.com](https://nocaptchaai.com)  \
+Dcos:  [noCaptchaAi Docs](https://nocaptchaai.com/docs)  \
+MainRepo:  [hCaptchaSolverApi](https://github.com/shimuldn/hCaptchaSolverApi) \
+Discord:  [https://discord.gg/E7FfzhZqzA](https://discord.gg/E7FfzhZqzA) \
+Telegram:  [https://t.me/noCaptchaAi ](https://t.me/noCaptchaAi) 
