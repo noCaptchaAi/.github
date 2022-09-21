@@ -1,4 +1,5 @@
-# hCaptcha Solver Api ⚡ by Ai
+# hCaptcha Solver Api ⚡
+## and community toolings repos
 
 <a href="https://t.me/noCaptchaAi" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://discord.gg/E7FfzhZqzA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
