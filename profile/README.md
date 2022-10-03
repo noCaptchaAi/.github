@@ -9,9 +9,11 @@
 
 [Website](https://nocaptchaai.com)   ~ [DOCS](https://docs.nocaptchaai.com)  ~ [Main Repo](https://github.com/shimuldn/hCaptchaSolverApi) 
 
+## Packages
+### Npm + Puppeteer: [nocaptchaai-puppeteer](https://github.com/noCaptchaAi/nocaptchaai-puppeteer)
 
 ## Userscript 
-Chrome/Firefox: [hCaptchaSolver.js](https://github.com/noCaptchaAi/hCaptchaSolver.user.js)
+### Chrome/Firefox: [hCaptchaSolver.js](https://github.com/noCaptchaAi/hCaptchaSolver.user.js)
 
 
 <img src="https://user-images.githubusercontent.com/4178343/180646819-324163a8-0c4c-4571-b01c-2f98ab8a1127.gif" width="60%" />
