@@ -7,21 +7,6 @@
 
 <a href="https://nocaptchaai.com/register">Free trial credits 🔥 with free API key</a>
 
-⚡**0.04s - 0.9s** \
-<i>to solve 18 hCapctha images</i> \
-**99% accuracy ~ 99% uptime**
-
-**Pricing:**
-- 15k solves = 5$ (user pays fee)
-- 30k solves = 10$
-- 65k solves = 20$
-- 160k solves /5 threads = 50$
-- 500k solves /10 threads = 150$ 
-- 1m solves / 20 threads = 300$
-- Need **Unlimited** Solving, 10 to **5000 threads**, **Custom API** requirements?
-  * Buy on <a href="https://discord.gg/E7FfzhZqzA">DISCORD</a>
-  * Send questions <a href="mailto:ai@nocaptchaai.com">eMail Us 📧<a/>
-
 <img src="https://user-images.githubusercontent.com/4178343/180646819-324163a8-0c4c-4571-b01c-2f98ab8a1127.gif" width="60%" />
 
 Home: [Website](https://nocaptchaai.com)  \
