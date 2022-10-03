@@ -7,13 +7,11 @@
 
 <a href="https://nocaptchaai.com/register">Free trial credits 🔥 with free API key</a>
 
-<img src="https://user-images.githubusercontent.com/4178343/180646819-324163a8-0c4c-4571-b01c-2f98ab8a1127.gif" width="60%" />
+[Website](https://nocaptchaai.com)   ~ [DOCS](https://docs.nocaptchaai.com)  ~ [Main Repo](https://github.com/shimuldn/hCaptchaSolverApi) 
 
-Home: [Website](https://nocaptchaai.com)  \
-Dcos:  [DOCS](https://docs.nocaptchaai.com)  \
-MainRepo:  [github/hCaptchaSolverApi](https://github.com/shimuldn/hCaptchaSolverApi) \
-Discord:  [https://discord.gg/E7FfzhZqzA](https://discord.gg/E7FfzhZqzA) \
-Telegram:  [https://t.me/noCaptchaAi ](https://t.me/noCaptchaAi) 
 
 ## Userscript 
 Chrome/Firefox: [hCaptchaSolver.js](https://github.com/noCaptchaAi/hCaptchaSolver.user.js)
+
+
+<img src="https://user-images.githubusercontent.com/4178343/180646819-324163a8-0c4c-4571-b01c-2f98ab8a1127.gif" width="60%" />
