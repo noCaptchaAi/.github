@@ -1,4 +1,4 @@
-# Api based Captcha Solver Service  ⚡
+# Ai based Captcha Solver Service  ⚡
 ## community tooling, script, packages
 
 <a href="https://t.me/noCaptchaAi" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
