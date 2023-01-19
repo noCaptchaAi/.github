@@ -5,7 +5,7 @@
 <a href="https://discord.gg/E7FfzhZqzA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://discord.gg/E7FfzhZqzA"><img alt="Discord" src="https://img.shields.io/discord/994856206525018112"></a>
 
-<a href="https://nocaptchaai.com/register">Free trial credits 🔥 with free API key</a>
+<a href="https://dash.nocaptchaai.com">Free trial credits 🔥 with free API key</a>
 
 [Website](https://nocaptchaai.com)   ~ [DOCS](https://docs.nocaptchaai.com)  ~ [Main Repo](https://github.com/shimuldn/hCaptchaSolverApi) 
 
