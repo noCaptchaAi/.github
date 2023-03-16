@@ -1,9 +1,10 @@
 <div>
 <h1>Captcha Solver - noCaptcha Ai</h1>
-<h4>Fast. Cheap. Captcha Ai. Automated. <a href="https://github.com/noCaptchaAi/noCaptcha_extension">
+<h4>Ai Captcha Solver. hCAPTCHA, reCAPTCHA v2, OCR/TEXT CAPTCHA SOLVING.</h4>
+
+</h4><a href="https://github.com/noCaptchaAi/noCaptcha_extension">
 <img src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg"  width="15px"/>
 Chrome Extension</a>. Captcha Solving API. AI Image classification</h4>
-<p>hCaptcha, reCaptcha v2(beta), textCaptcha(in development)</p>
 <p>
 
 <a href="https://t.me/noCaptchaAi" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
