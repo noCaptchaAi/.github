@@ -1,6 +1,6 @@
 <div>
 <h1>Captcha Solver - noCaptcha Ai</h1>
-<h4>Ai Captcha Solver. hCAPTCHA, reCAPTCHA v2 image audio, OCR/Normal SOLVING.</h4>
+<h4>Ai Captcha Solver. qCAPTCHA, reCAPTCHA v2 image audio, OCR/Normal SOLVING.</h4>
 
 </h4><a href="https://github.com/noCaptchaAi/noCaptcha_extension">
 <img src="https://www.google.com/chrome/static/images/chrome-logo-m100.svg"  width="15px"/>
